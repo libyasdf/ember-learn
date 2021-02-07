@@ -64,7 +64,7 @@ Specify what it takes to deploy your app.
 
 [JS-Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)  
 
-[Handlebars](https://handlebarsjs.com)  
+[Handlebars](https://handlebarsjs.com/guide/) 
 
 [ES6](https://ponyfoo.com/articles/es6)  
 
