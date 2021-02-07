@@ -55,3 +55,19 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+# website
+
+[HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)  
+
+[CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)  
+
+[JS-Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)  
+
+[Handlebars](https://handlebarsjs.com)  
+
+[ES6](https://ponyfoo.com/articles/es6)  
+
+[emberCli](http://ember-cli-deploy.com)  
+
+[example](https://github.com/ember-learn/super-rentals/tree/super-rentals-tutorial-output)  
