@@ -73,3 +73,4 @@ Specify what it takes to deploy your app.
 [example](https://github.com/ember-learn/super-rentals/tree/super-rentals-tutorial-output)  
 
 [example show](https://ember-super-rentals.netlify.app)  
+
